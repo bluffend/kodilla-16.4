@@ -1,0 +1,14 @@
+.container {
+    height: 400px;
+    max-width: 800px;
+    display: flex;
+    justify-content:  space-around;     
+}
+button {
+    padding: 10px;
+    margin: 10px;
+    max-height: 50px;
+    font-size: 14px;
+    color: white;
+    background-color: green;
+}
